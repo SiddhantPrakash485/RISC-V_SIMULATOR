@@ -51,6 +51,7 @@ This tool allows users to write RISC-V assembly instructions, execute them, and 
 
 
 🧪 Technologies Used
+    
     Frontend
         React.js
         JavaScript
